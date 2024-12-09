@@ -8,7 +8,7 @@ $ git add .
 ```$ git push RemoteName BranchName``` 
 
 # To pull 
-$ git pull RemoteName BranchName
+$ ```git pull RemoteName BranchName```
 
 # To cut a new branch
 ```$ git checkout -b NewBranchName```
